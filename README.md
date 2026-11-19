@@ -52,7 +52,7 @@ Interesse na aplicação de métodos computacionais à análise de dados biológ
 </details>
 
 <details open>
-<summary>🧬 Quimioinformática e modelagem molecular</summary>
+<summary>🧬 Bioinformática e modelagem molecular</summary>
 <br>
 
 ![RDKit](https://img.shields.io/badge/RDKit-3776AB?style=for-the-badge)
